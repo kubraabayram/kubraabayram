@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kübra Bayram</h1>
-<h3 align="center">I am a sophomore (2nd year) computer engineering student at Haliç University.</h3>
+<h3 align="center">I am a sophomore (3rd year) computer engineering student at Haliç University.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kubraabayram&label=Profile%20views&color=0e75b6&style=flat" alt="kubraabayram" /> </p>
 
